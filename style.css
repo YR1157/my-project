@@ -122,6 +122,8 @@ header h1 {
     padding: 40px;
     margin: 40px 0;
     backdrop-filter: blur(10px);
+    opacity: 1 !important;
+    transform: none !important;
 }
 
 .info h2 {
@@ -173,6 +175,8 @@ header h1 {
 /* Types Section */
 .types {
     margin: 40px 0;
+    opacity: 1 !important;
+    transform: none !important;
 }
 
 .types h2 {
@@ -242,6 +246,9 @@ header h1 {
     border-radius: 20px;
     padding: 40px;
     margin: 40px 0;
+    opacity: 1 !important;
+    transform: none !important;
+    transform: none !important;
 }
 
 .safety h2 {
